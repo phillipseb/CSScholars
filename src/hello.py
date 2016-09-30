@@ -1,6 +1,4 @@
 print 'Hello World!'
 print 'Gabrielle'
-print 'Emily was here!!'
-print 'Emily please make a commit from your github -Gabrielle'
 print 'Cool -Jessica'
 print 'Shaina was here'
